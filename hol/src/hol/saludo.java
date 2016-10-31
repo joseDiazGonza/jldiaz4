@@ -11,4 +11,8 @@ package hol;
  */
 public class saludo {
     
+    public void metads(){
+        
+    }
+    
 }
