@@ -12,4 +12,8 @@ public class da {
         System.out.println("hola yo digo hola ");
     }
     
+    public void saludo(){
+        System.out.println("buenas dias");
+    }
+    
 }
