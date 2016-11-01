@@ -16,4 +16,8 @@ public class da {
         System.out.println("buenas dias");
     }
     
+    public void salir(){
+        System.out.println("fdsfsdf");
+    }
+    
 }
